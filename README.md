@@ -10,7 +10,8 @@ Eu mesmo criei o ícone usando um modelo que baixei no google, usei a ferramenta
 # Para estudos
 Criei essa aplicação para aplicar meus conhecimentos em python, sou iniciante portanto, qualquer dica de melhoria será bem-vindo.
 
-# Veja
+# Ícone do app
 ![alt text](https://github.com/italopinto/kontatinhos/blob/main/kontatinho/icons/kontatinho.png)
 
-
+# Screenshot do app em funcionamento
+![alt text](https://github.com/italopinto/kontatinhos/blob/main/kontatinho/icons/screenshot)
