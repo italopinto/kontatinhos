@@ -11,4 +11,6 @@ Eu mesmo criei o ícone usando um modelo que baixei no google, usei a ferramenta
 Criei essa aplicação para aplicar meus conhecimentos em python, sou iniciante portanto, qualquer dica de melhoria será bem-vindo.
 
 # Veja
-Olhe a pasta icons, onde coloquei um screenshot da aplicação em funcionamento.
+<img src="/kontatinhos/kontatinho/icons/kontatinho.png" alt="Logo, made with inkscape"/>
+
+
