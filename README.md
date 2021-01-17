@@ -1,4 +1,5 @@
 # kontatinhos
+![alt text](https://github.com/italopinto/kontatinhos/blob/main/kontatinho/icons/kontatinho.png)
 Aplicativo desktop para salvar, editar e excluir contatos de telefone, escrito totalmente em python.
 
 # PySimpleGUI
@@ -9,9 +10,6 @@ Eu mesmo criei o ícone usando um modelo que baixei no google, usei a ferramenta
 
 # Para estudos
 Criei essa aplicação para aplicar meus conhecimentos em python, sou iniciante portanto, qualquer dica de melhoria será bem-vindo.
-
-# Ícone do app
-![alt text](https://github.com/italopinto/kontatinhos/blob/main/kontatinho/icons/kontatinho.png)
 
 # Screenshot do app em funcionamento
 ![alt text](https://github.com/italopinto/kontatinhos/blob/main/kontatinho/icons/screenshot)
