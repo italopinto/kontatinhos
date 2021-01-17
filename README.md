@@ -11,6 +11,6 @@ Eu mesmo criei o ícone usando um modelo que baixei no google, usei a ferramenta
 Criei essa aplicação para aplicar meus conhecimentos em python, sou iniciante portanto, qualquer dica de melhoria será bem-vindo.
 
 # Veja
-![alt text](https://github.com/italopinto/kontatinhos/blob/master/kontatinho.png?raw=true)
+![alt text](https://github.com/italopinto/kontatinhos/tree/master/kontatinho.png?raw=true)
 
 
