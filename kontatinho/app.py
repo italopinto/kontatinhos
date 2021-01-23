@@ -4,6 +4,7 @@ import PySimpleGUI as sg
 from os import remove, path
 from unidecode import unidecode
 import string
+from time import strftime, gmtime
 
 sg.ChangeLookAndFeel('DarkBlue1')
 
@@ -31,10 +32,12 @@ n = 'Não'
 # criar layout menu
 def main_menu():
     layout_menu = [
+        [sg.Text('Opened: ' + strftime('%d/%m/%Y - %H:%M:%S', gmtime()), text_color='gray')],
         [sg.Button(contato_add, size=(20, 0)), sg.Button(list_view, size=(20, 0))],
         [sg.Button(contato_search, size=(20, 0)), sg.Image('icons/k.png'), sg.Button(del_contato, size=(20, 0))],
         [sg.Button('Editar contato', size=(20, 0),), sg.Button(del_all_contato, button_color=('white', 'red'), size=(20, 0))],
-        [sg.Button(sair)]
+        [sg.Button(sair)],
+        [sg.Text('Author: Ítalo Pinto', text_color='gray')]
     ]
     return sg.Window('Kontatinh@s', layout=layout_menu, element_padding=(10, 10), element_justification='center', finalize=True)
 
